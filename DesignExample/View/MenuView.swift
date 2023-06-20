@@ -8,7 +8,7 @@ struct MenuView: View {
             Spacer()
             
             VStack(spacing: 16) {
-                Text("Renat - обучение завершено на 23 %")
+                Text("Keet - обучение завершено на 23 %")
                     .font(.caption)
                 
                 Color.white

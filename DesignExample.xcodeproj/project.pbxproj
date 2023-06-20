@@ -16,6 +16,7 @@
 		9408CCB92A3B11130000D2EA /* MenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9408CCB82A3B11130000D2EA /* MenuView.swift */; };
 		9426454A2A3CBC5300355FE2 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 942645492A3CBC5300355FE2 /* Home.swift */; };
 		9426454C2A3CC91300355FE2 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9426454B2A3CC91300355FE2 /* HomeView.swift */; };
+		9428F8BC2A3EC1AF00FEA802 /* RingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9428F8BB2A3EC1AF00FEA802 /* RingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		9408CCB82A3B11130000D2EA /* MenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuView.swift; sourceTree = "<group>"; };
 		942645492A3CBC5300355FE2 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
 		9426454B2A3CC91300355FE2 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		9428F8BB2A3EC1AF00FEA802 /* RingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 				9408CCB82A3B11130000D2EA /* MenuView.swift */,
 				942645492A3CBC5300355FE2 /* Home.swift */,
 				9426454B2A3CC91300355FE2 /* HomeView.swift */,
+				9428F8BB2A3EC1AF00FEA802 /* RingView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -172,6 +175,7 @@
 				9426454C2A3CC91300355FE2 /* HomeView.swift in Sources */,
 				94040D332A3A506E0028E3C9 /* ContentView.swift in Sources */,
 				94040D3F2A3A566A0028E3C9 /* CardView.swift in Sources */,
+				9428F8BC2A3EC1AF00FEA802 /* RingView.swift in Sources */,
 				9426454A2A3CBC5300355FE2 /* Home.swift in Sources */,
 				94040D312A3A506E0028E3C9 /* DesignExampleApp.swift in Sources */,
 				94040D432A3A570A0028E3C9 /* BackCardView.swift in Sources */,
